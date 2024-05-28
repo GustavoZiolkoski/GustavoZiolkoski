@@ -1,5 +1,5 @@
 ### Olá! Prazer em conhecê-lo, sou o **Gustavo Ziolkoski.**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-ziolkoski-a53461217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-ziolkoski-a53461217/)
 <hr>
 
 ### Atualmente trabalho com...
