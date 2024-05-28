@@ -1,7 +1,4 @@
-### Olá! Prazer em conhecê-lo, sou o **Victor Purkott.**
-
-Um entusiasta da programação/desenvolvimento que adora transformar ideias em soluções digitais incríveis. Sou como aquele artista que transforma uma tela em branco em uma obra de arte digital. Além disso, tenho uma queda por front-end, mas também faço mágica nos bastidores do back-end quando necessário.
-Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
+### Olá! Prazer em conhecê-lo, sou o **Gustavo Ziolkoski.**
 
 ### Linguagens que eu Programo:
 #### Front-End:
@@ -23,7 +20,7 @@ Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de
 #### Frameworks:
 
 <div style="display: flex;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="Entity Framework Core" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
 </div>
 
 #### Tecnologias de Infraestrutura:
@@ -35,13 +32,13 @@ Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de
 #### Gerenciamento de Dados:
 
 <div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </div>
 
 ### Entre em Contato:
-- 📧 Email: victorpurkottcoelho@gmail.com
-- 🔗 LinkedIn: [Victor Purkott](https://www.linkedin.com/in/victor-purkott-542183298/)
+- 📧 Email: gustavoziol96@gmail.com
+- 🔗 LinkedIn: [Gustavo Ziolkoski](https://www.linkedin.com/in/gustavo-ziolkoski-a53461217/)
 - 🎮 Discord: purkottzin
 
 **Sinta-se à vontade para me contatar! Estou sempre aberto para discussões sobre colaborações ou para apenas trocar ideias e experiências sobre desenvolvimento/programação.**
