@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-ziolkoski-a53461217/)
 <hr>
 
-###Sou um **Desenvolvedor** dedicado a criar soluções inovadoras e eficientes. Aqui contém algumas informações sobre mim e dos meus projetos e contribuições.
+### Sou um **Desenvolvedor** dedicado a criar soluções inovadoras e eficientes. Aqui contém algumas informações sobre mim e dos meus projetos e contribuições.
 
 ### Atualmente trabalho com...
 
