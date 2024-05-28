@@ -20,7 +20,7 @@
 #### Frameworks:
 
 <div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
 </div>
 
 #### Tecnologias de Infraestrutura:
