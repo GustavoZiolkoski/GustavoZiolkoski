@@ -26,6 +26,5 @@ Sou um **Desenvolvedor** dedicado a criar soluções inovadoras e eficientes. Aq
 ### Entre em Contato:
 - 📧 Email: gustavoziol96@gmail.com
 - 🔗 LinkedIn: [Gustavo Ziolkoski](https://www.linkedin.com/in/gustavo-ziolkoski-a53461217/)
-- 🎮 Discord: sethzinnhow
 
 **Sinta-se à vontade para me contatar! Estou sempre aberto para discussões sobre colaborações ou para apenas trocar ideias e experiências sobre desenvolvimento/programação.**
